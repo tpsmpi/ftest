@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
+"companyName": "Perceiving Systems, Max Planck Institute for Intelligent Systems",
 "productName": "FLAME",
-"productVersion": "0.1",
+"productVersion": "2020",
 "dataUrl": "webgl.data.unityweb",
 "wasmCodeUrl": "webgl.wasm.code.unityweb",
 "wasmFrameworkUrl": "webgl.wasm.framework.unityweb",
